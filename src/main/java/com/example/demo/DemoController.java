@@ -11,7 +11,6 @@ public class DemoController {
 	@Autowired
 	public void setBizDomain(BusinessDomain domain) {
 		bizDomain = domain;
-		System.out.println("*** BusinessDomain set to "+domain.getName());
 	}
 
 	public BusinessDomain getBizDomain() {
