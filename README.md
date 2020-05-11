@@ -4,7 +4,7 @@ The point of this exploration is to develop using Spring from a test-first persp
 
 ## Initial Checkin
 
- - Used Sprint Initializer (https://start.spring.io/) to generate the basic project.
+ - Used Spring Initializer (https://start.spring.io/) to generate the basic project.
  - Imported into Eclipse as a Maven project
  - Ran Maven to grab all the dependencies
  - Added standalone JUnit test (not marked @SpringBootTest)
